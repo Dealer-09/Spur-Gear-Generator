@@ -37,7 +37,8 @@ tool = SpurGearGenerator()  # Launch the GUI
 ```
 
 ## **Example Output**
-![Example Gear](assets/example_gear.png) *(Attach a preview of the generated gear.)*
+![Example Gear](![Screenshot (349)](https://github.com/user-attachments/assets/1ef96d5e-8020-4aec-ad8d-806d2b62fad5)
+) *(Attach a preview of the generated gear.)*
 
 ## **Contributing**
 Contributions are welcome! Feel free to submit issues, suggest improvements, or create pull requests.
